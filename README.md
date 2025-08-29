@@ -1,11 +1,1 @@
-```go
-
-package main
-
-func main() {
-
-}
-
-
-```
-
+# a simple log-package implementation in idiomatic go
